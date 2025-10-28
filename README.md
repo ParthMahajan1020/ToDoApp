@@ -28,12 +28,14 @@ Try pressing the following key sequence while the app window is focused:
 ↑ ↑ ↓ ↓ ← → ← →
 ```
 
-##💡 Tech Stack
+💡 Tech Stack
+
 - Language: Java (JDK 8+)
 - GUI Framework: Swing
 - Libraries: javax.swing, java.awt, java.util
 
-##🧠 Future Enhancements
+🧠 Future Enhancements
+
 - 💾 Save tasks persistently using file I/O or SQLite
 - ☁️ Add cloud sync with user login
 - 🌓 Light/Dark theme toggle
