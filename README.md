@@ -42,7 +42,7 @@ Try pressing the following key sequence while the app window is focused:
 - 🔔 Task reminders or notifications
 - 🗂️ Categorize tasks (Work, Study, Personal, etc.)
 
-- ## Author
+## Author
 
 *Parth Mahajan*  
 - BTech Student | Java & Software Development Enthusiast  
